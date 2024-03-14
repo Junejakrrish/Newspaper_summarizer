@@ -1,0 +1,1 @@
+Developed a summarizer using Python's tkinter for the GUI, natural language processing, TextBlob for sentiment analysis, and newspaper3k for article extraction. This summarizer extracts information such as the title, author, publication date, and article summary. It also provides a sentiment analysis of the article.
